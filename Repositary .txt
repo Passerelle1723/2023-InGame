@@ -1,0 +1,7 @@
+echo "# 2023-InGame" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Passerelle1723/2023-InGame.git
+git push -u origin maingit remote add origin https://github.com/Passerelle1723/2023-InGame.git
